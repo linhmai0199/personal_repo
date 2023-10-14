@@ -1,0 +1,8 @@
+dbt-core==1.6.6
+dbt-postgres==1.6.6
+elementary-data
+numpy
+pandas
+requests
+dagster
+dagster-webserver

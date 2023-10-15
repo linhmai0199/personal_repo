@@ -1,3 +1,4 @@
 apps/dagster/__pycache__
 apps/dagster/tmp*
 python/.venv
+.vscode
